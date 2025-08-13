@@ -8,6 +8,7 @@ A collection of programs in different programming languages that ask for your na
 - Bash
 - Befunge
 - Brainfuck
+- Brainrot
 - C
 - C++
 - Go
